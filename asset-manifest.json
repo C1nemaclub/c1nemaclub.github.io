@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webdev-portfolio/static/css/main.4e13e62b.css",
-    "main.js": "/webdev-portfolio/static/js/main.0f69c137.js",
+    "main.css": "/webdev-portfolio/static/css/main.f9996d8f.css",
+    "main.js": "/webdev-portfolio/static/js/main.4f2fef7c.js",
     "static/js/787.c1112931.chunk.js": "/webdev-portfolio/static/js/787.c1112931.chunk.js",
     "static/media/mybrary.png": "/webdev-portfolio/static/media/mybrary.22bcd97d91a030d9962b.png",
     "static/media/journey.png": "/webdev-portfolio/static/media/journey.cbe3d15d6bcbce7ab555.png",
@@ -16,12 +16,12 @@
     "static/media/express.png": "/webdev-portfolio/static/media/express.914793fe43d44266c184.png",
     "static/media/logo-lines.svg": "/webdev-portfolio/static/media/logo-lines.7cd5cce3b46646c9ebdd3f3340b41566.svg",
     "index.html": "/webdev-portfolio/index.html",
-    "main.4e13e62b.css.map": "/webdev-portfolio/static/css/main.4e13e62b.css.map",
-    "main.0f69c137.js.map": "/webdev-portfolio/static/js/main.0f69c137.js.map",
+    "main.f9996d8f.css.map": "/webdev-portfolio/static/css/main.f9996d8f.css.map",
+    "main.4f2fef7c.js.map": "/webdev-portfolio/static/js/main.4f2fef7c.js.map",
     "787.c1112931.chunk.js.map": "/webdev-portfolio/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e13e62b.css",
-    "static/js/main.0f69c137.js"
+    "static/css/main.f9996d8f.css",
+    "static/js/main.4f2fef7c.js"
   ]
 }
