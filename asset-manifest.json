@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.512f3b52.css",
-    "main.js": "/static/js/main.041e339d.js",
+    "main.css": "/static/css/main.99b59a71.css",
+    "main.js": "/static/js/main.f5c6e8fc.js",
     "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/cardflip.png": "/static/media/cardflip.cdd629259624ff577da9.png",
     "static/media/mybrary.png": "/static/media/mybrary.22bcd97d91a030d9962b.png",
     "static/media/journey.png": "/static/media/journey.cbe3d15d6bcbce7ab555.png",
     "static/media/battletracker2.png": "/static/media/battletracker2.2a72ce9b8a32a425e51b.png",
+    "static/media/soundstore.png": "/static/media/soundstore.d8d775b9a7bd7f302310.png",
     "static/media/nimbus.png": "/static/media/nimbus.99516eca39eea68d7ac7.png",
+    "static/media/countries.png": "/static/media/countries.058b2e5a5614fa8aeeee.png",
     "static/media/space2.png": "/static/media/space2.554ceb9884653ecd1d68.png",
     "static/media/quizzical.png": "/static/media/quizzical.14aff4fd2840f5ea3946.png",
     "static/media/mongo.png": "/static/media/mongo.7a16fc61d457c9e340e2.png",
@@ -17,12 +20,12 @@
     "static/media/express.png": "/static/media/express.914793fe43d44266c184.png",
     "static/media/logo-lines.svg": "/static/media/logo-lines.7cd5cce3b46646c9ebdd3f3340b41566.svg",
     "index.html": "/index.html",
-    "main.512f3b52.css.map": "/static/css/main.512f3b52.css.map",
-    "main.041e339d.js.map": "/static/js/main.041e339d.js.map",
+    "main.99b59a71.css.map": "/static/css/main.99b59a71.css.map",
+    "main.f5c6e8fc.js.map": "/static/js/main.f5c6e8fc.js.map",
     "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.512f3b52.css",
-    "static/js/main.041e339d.js"
+    "static/css/main.99b59a71.css",
+    "static/js/main.f5c6e8fc.js"
   ]
 }
